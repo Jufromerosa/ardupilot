@@ -1,4 +1,6 @@
-# ArduPilot Project
+# Arducopter 4.5.6 BS Firmware
+
+Custom code for the Arducopter 4.5.6 firmware to BS.
 
 <a href="https://ardupilot.org/discord"><img src="https://img.shields.io/discord/674039678562861068.svg" alt="Discord">
 
